@@ -1,6 +1,7 @@
 # ComputacionParalelaProyecto
 
 1.Instalar Ubuntu 20.04 lts de windows store
+
 2. Instalar g++ : sudo apt install g++
 3. Instalar nvidia tool kit: 
   sudo apt update
